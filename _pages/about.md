@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Andrew!
+Hi, my name is Andrew! I'm a current Masters in Artificial Intelligence student at Northwestern and a Visiting Researcher at Harvard Medical School.
