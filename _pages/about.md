@@ -17,7 +17,7 @@ Feel free to reach out to connect!
 
 ---
 
-#### Publications
+## Publications
 
 1. [Evaluating generalizability of artificial intelligence models for molecular datasets](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10925170/)
 Y Ektefaie, **A Shen**, D Bykova, M Marin, M Zitnik, M Farhat. bioRxiv.
