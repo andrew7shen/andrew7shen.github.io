@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, my name is Andrew! I'm a current [Masters in Artificial Intelligence](https://www.mccormick.northwestern.edu/artificial-intelligence/) student at **Northwestern University** working with [Joshua Glaser](https://glaserlab.github.io/) and a Visiting Researcher at **Harvard Medical School** working with [Marinka Zitnik](https://zitniklab.hms.harvard.edu/). I completed my undergraduate education at **UC San Diego** in Bioinformatics and Computer Science.
 
-I am broadly interested in solving problems in the intersection of AI and science, but particularly in the area of biology and medicine. Some of current research endeavors consists of biologically inspired foundation models for proteins and interpretable methods for neural decoding. 
+I am broadly interested in solving problems at the intersection of AI and science, but particularly in the area of biology and medicine. Some of current research endeavors consists of biologically inspired foundation models for proteins and interpretable methods for neural decoding. 
 
 I have also been involved with other labs and have been fortunate to work with [Heather Moss](https://med.stanford.edu/mosslab/current-team.html#current_team) at Stanford Health Care, [Melissa Gymrek](https://gymreklab.com/) at UC San Diego, and [Kavita Sarin](https://sarinlab.stanford.edu/) at Stanford Health Care. 
 
