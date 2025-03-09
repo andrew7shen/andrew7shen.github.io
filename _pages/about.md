@@ -20,7 +20,7 @@ Feel free to reach out to connect!
 
 1. [Phyla: Towards a Foundation Model for Phylogenetic Inference](https://www.biorxiv.org/content/10.1101/2025.01.17.633626v1.abstract) \
 **A Shen\***, Y Ektefaie\*, L Jain, MR Farhat, M Zitnik. ICLR 2025 LMRL Workshop.
-2. Mixtures of decoders for interpreting dynamic neural-behavioral mappings
+2. Mixtures of decoders for interpreting dynamic neural-behavioral mappings \
 **Andrew Shen\***, Xuan Ma, David Xing, Xinyue An, Andrew Miri, Lee Miller, Joshua Glaser. Computational and Systems Neuroscience Conference.
 3. [Evaluating generalizability of artificial intelligence models for molecular datasets](https://www.nature.com/articles/s42256-024-00931-6) \
 Y Ektefaie, **A Shen**, D Bykova, M Marin, M Zitnik, M Farhat. Nature Machine Intelligence, 1-13.
