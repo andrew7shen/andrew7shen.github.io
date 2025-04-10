@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Andrew! I'm a current Research Associate at **Harvard Medical School** working with [Marinka Zitnik](https://zitniklab.hms.harvard.edu/). I also work with [Joshua Glaser](https://glaserlab.github.io/) at **Northwestern University** where I completed my [Masters in Artificial Intelligence](https://www.mccormick.northwestern.edu/artificial-intelligence/). I completed my undergraduate education at **UC San Diego** in Bioinformatics and Computer Science.
+***I will be attending ICLR 2025 in Singapore to give an oral presentation on our work developing a foundation model for phylogenetics at the [LMRL Workshop](https://www.lmrl.org/)!***
 
-I am broadly interested in solving problems at the intersection of AI and science, but particularly in the area of biology and medicine. Some of current research endeavors consists of biologically inspired foundation models for proteins and interpretable methods for neural decoding. 
+Hi, my name is Andrew! I'm an incoming PhD student in [Biomedical Data Science](https://dbds.stanford.edu/) at **Stanford University** and a current Research Associate at **Harvard Medical School** working with [Marinka Zitnik](https://zitniklab.hms.harvard.edu/). I also work with [Joshua Glaser](https://glaserlab.github.io/) at **Northwestern University** where I completed my [Masters in Artificial Intelligence](https://www.mccormick.northwestern.edu/artificial-intelligence/). I completed my undergraduate education at **UC San Diego** in Bioinformatics and Computer Science.
+
+I am broadly interested in solving problems at the intersection of AI and science, but particularly in the area of biology and medicine. Some of my current research endeavors consist of biologically inspired foundation models for proteins and interpretable methods for neural decoding. 
 
 I have also been involved with other labs and have been fortunate to work with [Heather Moss](https://med.stanford.edu/mosslab/current-team.html#current_team) at Stanford Health Care, [Melissa Gymrek](https://gymreklab.com/) at UC San Diego, and [Kavita Sarin](https://sarinlab.stanford.edu/) at Stanford Health Care. 
 
-Feel free to reach out to connect!
+Feel free to reach out to connect at [andrew7shen@gmail.com](andrew7shen@gmail.com)!
 
 
 ## Publications
@@ -35,3 +37,14 @@ JL Jia*, **A Shen\***, MM Tabata, KY Sarin. Pediatric Dermatology 37 (4), 752-75
 
 \* Co-first Author
 
+<!-- ## Talks and Posters
+
+1. ICLR 2025: Invited LMRL Workshop oral presentation for "Phyla: Towards a Foundation Model for Phylogenetic Inference"
+2. COSYNE 2025: Poster presentation for "Mixtures of decoders for interpreting dynamic neural-behavioral mappings"
+3. NANOS 2022: Poster presentation for "Evolution of Disparities in Outpatient Ophthalmic Care at a Tertiary Care Center in California at the Beginning of and One Year into the COVID-19 Public Health Emergency" -->
+
+## Awards
+
+1. NSF GRFP Honorable Mention (2025)
+2. Harvard Medical School Summer Institute in Biomedical Informatics Fellow (2023)
+3. National Merit Finalist (2019)
