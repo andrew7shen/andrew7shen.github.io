@@ -9,13 +9,9 @@ redirect_from:
 
 <!--***I will be attending ICLR 2025 in Singapore to give an oral presentation on our work developing a foundation model for phylogenetics at the [LMRL Workshop](https://www.lmrl.org/)!***-->
 
-Hi, my name is Andrew! I'm a PhD student in [Biomedical Data Science](https://dbds.stanford.edu/) at **Stanford University** and an **NSF Graduate Research Fellow**.
+Hi, my name is Andrew! I'm a PhD student in [Biomedical Data Science](https://dbds.stanford.edu/) at **Stanford University** where I am advised by [James Zou](https://www.james-zou.com/). I'm fortunate to be supported by the **NSF Graduate Research Fellowship**. I am broadly interested in solving problems at the intersection of AI and Science/Medicine, but I'm currently thinking about how we can improve autonomous scientific discovery. Before my PhD, I worked with some amazing advisors including [Marinka Zitnik](https://zitniklab.hms.harvard.edu/), [Joshua Glaser](https://glaserlab.github.io/), [Heather Moss](https://med.stanford.edu/mosslab/current-team.html#current_team), [Melissa Gymrek](https://gymreklab.com/), and [Kavita Sarin](https://sarinlab.stanford.edu/). 
 
-I am broadly interested in solving problems at the intersection of AI and science, but particularly in the areas of biology and medicine. Some of my current research endeavors consist of biologically inspired foundation models for proteins and interpretable methods for neural decoding. 
-
-Before my PhD, I worked at **Harvard Medical School** with [Marinka Zitnik](https://zitniklab.hms.harvard.edu/) on developing machine learning methods for medicine and science. I completed a [Masters in Artificial Intelligence](https://www.mccormick.northwestern.edu/artificial-intelligence/) at **Northwestern University** where I worked with [Joshua Glaser](https://glaserlab.github.io/), and I completed my undergraduate education at **UC San Diego** in Bioinformatics and Computer Science. I have also been involved with other labs and have been fortunate to work with [Heather Moss](https://med.stanford.edu/mosslab/current-team.html#current_team) at Stanford Health Care, [Melissa Gymrek](https://gymreklab.com/) at UC San Diego, and [Kavita Sarin](https://sarinlab.stanford.edu/) at Stanford Health Care. 
-
-Feel free to reach out to connect at ashen7@stanford.edu!
+If you are interested in my work or would like to connect, feel free to reach out at ashen7@stanford.edu!
 
 
 ## Publications

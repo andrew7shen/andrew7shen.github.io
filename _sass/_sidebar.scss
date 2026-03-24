@@ -91,8 +91,8 @@
 
   img {
     // max-width: 150px;
-    max-width: 200px;
-    border-radius: 50%;
+    max-width: 250px;
+    border-radius: 0%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -113,6 +113,12 @@
     width: 100%;
     padding-left: 0;
     padding-right: 0;
+    text-align: center;
+
+    > * {
+      display: inline-block;
+      text-align: left;
+    }
   }
 }
 
@@ -126,7 +132,7 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: $type-size-4;
 }
 
 .sidebar .author__desktop {
@@ -147,6 +153,7 @@
 
 .author__bio {
   margin: 0;
+  font-size: $type-size-4;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -171,6 +178,12 @@
 
   @include breakpoint($large) {
     display: block;
+    text-align: center;
+
+    .author__urls {
+      display: inline-block;
+      text-align: left;
+    }
   }
 
   button {
@@ -251,7 +264,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: $type-size-4;
     text-decoration: none;
 
     &:hover {
