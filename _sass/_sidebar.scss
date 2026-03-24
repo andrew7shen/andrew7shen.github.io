@@ -180,6 +180,7 @@
   @include breakpoint($large) {
     display: block;
     text-align: center;
+    margin-top: 15px;
 
     .author__urls {
       display: inline-block;
