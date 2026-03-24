@@ -151,9 +151,9 @@
   }
 }
 
-.author__bio {
+.sidebar .author__bio {
   margin: 0;
-  font-size: $type-size-4;
+  font-size: $type-size-4 !important;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -217,6 +217,7 @@
     border: 0;
     background: transparent;
     box-shadow: none;
+    z-index: 1;
   }
 
   &:before {

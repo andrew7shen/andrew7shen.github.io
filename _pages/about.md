@@ -11,10 +11,10 @@ redirect_from:
 
 Hi, my name is Andrew! I'm a PhD student in [Biomedical Data Science](https://dbds.stanford.edu/) at **Stanford University** where I am advised by [James Zou](https://www.james-zou.com/). I'm fortunate to be supported by the **NSF Graduate Research Fellowship**. I am broadly interested in solving problems at the intersection of AI and Science/Medicine, but I'm currently thinking about how we can improve autonomous scientific discovery. Before my PhD, I worked with some amazing advisors including [Marinka Zitnik](https://zitniklab.hms.harvard.edu/), [Joshua Glaser](https://glaserlab.github.io/), [Heather Moss](https://med.stanford.edu/mosslab/current-team.html#current_team), [Melissa Gymrek](https://gymreklab.com/), and [Kavita Sarin](https://sarinlab.stanford.edu/). 
 
-If you are interested in my work or would like to connect, feel free to reach out at ashen7@stanford.edu!
+If you are interested in my work or would like to connect, feel free to reach out!
 
 
-## Publications
+<!-- ## Publications
 
 1. [Sequence Modeling Is Not Evolutionary Reasoning](https://www.biorxiv.org/content/10.1101/2025.01.17.633626v2) \
 Y Ektefaie\*, **A Shen\***, L Jain, MR Farhat, M Zitnik. NeurIPS 2025.
@@ -33,7 +33,7 @@ JL Jia, JY Wang, DE Mills, **A Shen**, KY Sarin. Journal of the American Academy
 8. [Gamification improves melanoma visual identification among high school students: results from a randomized study.](https://onlinelibrary.wiley.com/doi/abs/10.1111/pde.14158) \
 JL Jia*, **A Shen\***, MM Tabata, KY Sarin. Pediatric Dermatology 37 (4), 752-753.
 
-\* Co-first Author
+\* Co-first Author -->
 
 <!-- ## Talks and Posters
 
