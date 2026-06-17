@@ -22,9 +22,11 @@ Hi, my name is Andrew! I'm a first-year PhD student in [Biomedical Data Science]
 
 ## Selected Papers
 
-1. [Evolutionary Reasoning Does Not Arise in Standard Usage of Protein Language Models](https://proceedings.neurips.cc/paper_files/paper/2025/hash/bda74ccd3b7d6071a1aff86e592debd0-Abstract-Conference.html) \
+1. [Unlocking LLM Creativity in Science through Analogical Reasoning](https://arxiv.org/abs/2605.11258) \
+**Andrew Shen**, Shaul Druckmann, James Zou. arxiv, 2026.
+2. [Evolutionary Reasoning Does Not Arise in Standard Usage of Protein Language Models](https://proceedings.neurips.cc/paper_files/paper/2025/hash/bda74ccd3b7d6071a1aff86e592debd0-Abstract-Conference.html) \
 Yasha Ektefaie\*, **Andrew Shen\***, Lavik Jain, Maha Farhat, Marinka Zitnik. *Advances in Neural Information Processing Systems (NeurIPS)*, 2025.
-2. [Evaluating generalizability of artificial intelligence models for molecular datasets](https://www.nature.com/articles/s42256-024-00931-6) \
+3. [Evaluating generalizability of artificial intelligence models for molecular datasets](https://www.nature.com/articles/s42256-024-00931-6) \
 Yasha Ektefaie, **Andrew Shen**, Daria Bykova, Maximillian G. Marin, Marinka Zitnik, Maha Farhat. *Nature Machine Intelligence*, 2024.
 
 
