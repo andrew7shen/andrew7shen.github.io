@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Andrew Shen"
 title_separator          : "-"
 name                     : &name "Andrew Shen Personal Website"
-description              : &description "Personal Webiste"
+description              : &description "Personal Website"
 url                      : https://andrew7shen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andrew7shen/andrew7shen.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "andrew_profile_pic.jpg"
   name             : "Andrew Shen"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "PhD Student, Stanford"
   location         : #
   employer         : #
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "andrew7shen"
+  github           : "andrew7shen"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

@@ -9,32 +9,26 @@ redirect_from:
 
 <!--***I will be attending ICLR 2025 in Singapore to give an oral presentation on our work developing a foundation model for phylogenetics at the [LMRL Workshop](https://www.lmrl.org/)!***-->
 
-Hi, my name is Andrew! I'm a first-year PhD student in [Biomedical Data Science](https://dbds.stanford.edu/) at **Stanford University** where I am advised by [James Zou](https://www.james-zou.com/). I'm fortunate to be supported by the **NSF Graduate Research Fellowship**. I am broadly interested in problems at the intersection of AI and Science/Medicine, but I'm currently working on improving autonomous scientific discovery. Before I started my PhD, I worked with some amazing advisors including [Marinka Zitnik](https://zitniklab.hms.harvard.edu/), [Joshua Glaser](https://glaserlab.github.io/), [Heather Moss](https://med.stanford.edu/mosslab/current-team.html#current_team), [Melissa Gymrek](https://gymreklab.com/), and [Kavita Sarin](https://sarinlab.stanford.edu/). 
+Hi, my name is Andrew! I'm a second-year PhD student in [Biomedical Data Science](https://dbds.stanford.edu/) at **Stanford University**, where I am advised by [James Zou](https://www.james-zou.com/) and supported by the **NSF Graduate Research Fellowship**. I am broadly interested in problems at the intersection of AI and Science/Medicine, and I'm currently working on improving autonomous scientific discovery.
 
-## Education
+Before Stanford, I was a research associate with [Marinka Zitnik](https://zitniklab.hms.harvard.edu/) at **Harvard Medical School**, where I worked on evolutionary reasoning of protein language models and molecular AI generalizability. I was also a research fellow in the Summer Institute in Biomedical Informatics (SIBMI) program at HMS.
 
-- **PhD in Biomedical Data Science, 2025–** \
-  Stanford University
-- **MS in Artificial Intelligence, 2024** \
-  Northwestern University
-- **BS in Bioinformatics, 2023** \
-  UC San Diego
+I received my MS in Artificial Intelligence from **Northwestern University** in 2024, where I was advised by [Joshua Glaser](https://glaserlab.github.io/), and my BS in Bioinformatics from **UC San Diego** in 2023, where I was advised by [Melissa Gymrek](https://gymreklab.com/). Along the way, I've also been fortunate to be advised by [Heather Moss](https://med.stanford.edu/mosslab/current-team.html#current_team) and [Kavita Sarin](https://sarinlab.stanford.edu/).
+
+## Get in touch
+
+I'm always happy to chat about research or potential collaborations, so feel free to [email me](mailto:ashen7@stanford.edu)!
+
+I'm also looking for motivated students with a strong computational background to work on AI for Science/Medicine. If you're interested, please send me your resume.
 
 ## Selected Papers
 
 1. [Unlocking LLM Creativity in Science through Analogical Reasoning](https://arxiv.org/abs/2605.11258) \
-**Andrew Shen**, Shaul Druckmann, James Zou. arxiv, 2026.
+**Andrew Shen**, Shaul Druckmann, James Zou. *Advances in Neural Information Processing Systems (NeurIPS)*, 2026.
 2. [Evolutionary Reasoning Does Not Arise in Standard Usage of Protein Language Models](https://proceedings.neurips.cc/paper_files/paper/2025/hash/bda74ccd3b7d6071a1aff86e592debd0-Abstract-Conference.html) \
 Yasha Ektefaie\*, **Andrew Shen\***, Lavik Jain, Maha Farhat, Marinka Zitnik. *Advances in Neural Information Processing Systems (NeurIPS)*, 2025.
 3. [Evaluating generalizability of artificial intelligence models for molecular datasets](https://www.nature.com/articles/s42256-024-00931-6) \
 Yasha Ektefaie, **Andrew Shen**, Daria Bykova, Maximillian G. Marin, Marinka Zitnik, Maha Farhat. *Nature Machine Intelligence*, 2024.
-
-
-## Get in touch
-
-If you are interested in our work or would like to collaborate, please reach out via email!
-
-I am also currently looking for motivated students with a strong computational background to work on research in AI for Science/Medicine. If you're interested, please email your resume to [ashen7@stanford.edu](mailto:ashen7@stanford.edu).
 
 
 <!-- ## Publications

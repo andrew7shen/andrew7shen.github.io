@@ -10,3 +10,5 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+# Ignore Sass build cache from local jekyll serve
+.sass-cache/
