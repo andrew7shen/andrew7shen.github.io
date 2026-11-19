@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<!--***I will be attending ICLR 2025 in Singapore to give an oral presentation on our work developing a foundation model for phylogenetics at the [LMRL Workshop](https://www.lmrl.org/)!***-->
+🎉 **I'll be at NeurIPS 2026 in Sydney presenting our work on [Unlocking LLM Creativity in Science through Analogical Reasoning](https://arxiv.org/abs/2605.11258)! If you're interested, happy to chat about AI for scientific discovery and agents for science/medicine.**
 
 Hi, my name is Andrew! I'm a second-year PhD student in [Biomedical Data Science](https://dbds.stanford.edu/) at **Stanford University**, where I am advised by [James Zou](https://www.james-zou.com/) and supported by the **NSF Graduate Research Fellowship**. I am broadly interested in LLM agents and AI for Science/Medicine. I'm currently working on improving autonomous scientific discovery, focusing on making LLM agents more creative, better collaborators for scientists, and easier for humans to audit. I'm also interested in how best to align agents as they take on longer-horizon tasks.
 
